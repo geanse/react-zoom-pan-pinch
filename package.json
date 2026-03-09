@@ -1,6 +1,6 @@
 {
-  "name": "react-zoom-pan-pinch",
   "version": "0.0.0",
+  "name": "se-react-zoom-pan-pinch",
   "description": "Zoom and pan html elements in easy way",
   "author": "prc5",
   "license": "MIT",

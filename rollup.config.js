@@ -33,6 +33,7 @@ export default [
       typescript({ declaration: false }),
       postcss({
         modules: true,
+        extract: 'styles.css'
       }),
     ],
     onwarn(error, warn) {
